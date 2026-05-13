@@ -1,0 +1,19 @@
+.gradle/
+.idea/
+.kotlin/
+local.properties
+build/
+app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.db
+*.rdb
+.env
+
+backend_fastapi/uploads_std/

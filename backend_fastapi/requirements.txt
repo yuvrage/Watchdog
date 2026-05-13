@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+celery
+redis
+sqlalchemy
+python-multipart
+androguard==3.3.5
+pyaxmlparser 
+apkutils-patch
